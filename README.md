@@ -1,0 +1,2 @@
+# Investigating-Population-and-Gender-Equality-in-Education
+Investigating Population and Gender Equality in Education In the task, you are required to visualise the relationship between the population in different countries, the income in different countries and the gender ratio (women % men, 25 to 34 years) in schools of different countries, and gain insights from how these relations and trends change over time.
